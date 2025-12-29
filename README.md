@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QnA Chatbot
 
 A **FastAPI-based QnA Chatbot** powered by **Ollama LLM**.  
@@ -93,3 +94,7 @@ vbnet
 Copy code
 User: Tell me a joke
 Bot: Why did the chicken cross the road? To get to the other side!
+=======
+# QnA_CHATBOT
+A FastAPI-based QnA Chatbot using Ollama LLM
+>>>>>>> f54a247d0c0ea120194329fcb4464fbb5279caac
